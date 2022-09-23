@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.cover-img {
+    width: 100%;
+}
+
+.hero-text {
+    color: #5d5b64;
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-line-1 {
+    align-self: flex-start;
+}
+
+.hero-line-2 {
+    align-self: center;
+}
+
+.hero-line-3 {
+    align-self: flex-end;
+}
